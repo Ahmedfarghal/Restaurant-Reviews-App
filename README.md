@@ -1,7 +1,4 @@
-
-
-https://ahmedfarghal.github.io/Restaurant-Reviews-App/.
-
+Live website just from <a href="https://ahmedfarghal.github.io/Restaurant-Reviews-App/.">here</a>
 
 ## Project Overview: Stage 1
 
