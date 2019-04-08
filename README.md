@@ -1,12 +1,9 @@
-Live website just from <a href="https://ahmedfarghal.github.io/Restaurant-Reviews-App/.">here</a>
-
 ## Project Overview: Stage 1
 
-**Restaurant Reviews** projects, you will incrementally convert a static webpage to a mobile-ready web application. In **Stage One**, you will take a static design that lacks accessibility and convert the design to be responsive on different sized displays and accessible for screen reader use. You will also add a service worker to begin the process of creating a seamless offline experience for your users.
-
-### Specification
-You have been provided the code for a restaurant reviews website. The code has a lot of issues. It’s barely usable on a desktop browser, much less a mobile device. It also doesn’t include any standard accessibility features, and it doesn’t work offline at all. Your job is to update the code to resolve these issues while still maintaining the included functionality. 
-
+**Restaurant Reviews**  
+i have convert a static webpage to a mobile-ready web application that supports accessibility be responsive on different sized displays and accessible for screen reader use.
+also added map support that will give you the ability to locate your Restaurants location.
+You can easily run the website from a live review from <a href="https://ahmedfarghal.github.io/Restaurant-Reviews-App/.">here</a> 
 
 
 ### Note about ES6
